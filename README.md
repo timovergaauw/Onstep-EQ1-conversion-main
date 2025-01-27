@@ -7,6 +7,9 @@ check if i2c on ramp 1.6 works then make webserver on a esp32-wroom with gps mod
 
 anything else i come across since im just starting on Onstep and this conversion :-)
 
+27-1-2025
+made 3d printed controller box and holder on tripod leg for the fysetc E4
+
  5-1-2025
  first run with Arduino mega and ramp 1.6 with 5 stepper drivers.
  compiled so far and got connection with Stellarium on pc by usb.
